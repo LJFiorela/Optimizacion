@@ -1,6 +1,6 @@
-﻿Profesor,Codigo,Materia
-Juan Perez,JU,Matematicas
-Simon Smith,SI,Matematicas
-Joe Pelaez,JO,Lenguaje
-Pedro Bracamonte,Pe,Biologia
-Zacarias Espejo,ZA,Computacion
+﻿Profesor,Codigo,Materia1,Materia2,Materia3
+Juan Perez,JU,Matematicas,Lenguaje,Computacion
+Simon Smith,SI,Matematicas,Biologia,
+Joe Pelaez,JO,Lenguaje,,
+Pedro Bracamonte,PE,Biologia,,
+Zacarias Espejo,ZA,Computacion,,
