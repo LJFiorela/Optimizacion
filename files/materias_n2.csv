@@ -1,0 +1,11 @@
+materia,codigo,horas,aulas
+Matematicas,MA,4,C1|C2|C3|C4|C5
+Lenguaje,LE,4,C1|C2|C3|C4|C5
+Biologia,BI,2,C4|C5
+Computacion,CO,3,C6|C7|C8
+Fisica,FI,3,C1|C2|C3|C6|C7
+Teologia,TE,2,C1|C2|C3|C4|C5
+Quimica,QU,3,C4|C5
+Calculo,CA,4,C1|C2|C3|C4|C5
+Estadistica,ES,3,C1|C2|C3|C4|C5
+Economia,EC,2,C9|CA
